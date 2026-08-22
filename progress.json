@@ -9,72 +9,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1787248713.698395,
-    "completed_at": 1787248717.754827,
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787390366.445627,
+    "completed_at": 1787390369.239636,
     "comments": [
-      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1787248825.89685,
-    "completed_at": 1787248827.948919,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1787247434.113579,
-    "completed_at": 1787247436.103269,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1787246653.90434,
-    "completed_at": 1787246655.879932,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1787254187.935415,
-    "completed_at": 1787254218.327127,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1787254290.958247,
-    "completed_at": 1787254297.740841,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1787254771.044962,
-    "completed_at": 1787254773.820885,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1787256071.122147,
-    "completed_at": 1787256074.458038,
-    "comments": [
-      "Great work pushing changes to the remote!"
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
   },
@@ -97,11 +36,70 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "under-control",
-    "started_at": 1787388981.548855,
-    "completed_at": 1787388984.123291,
+    "exercise_name": "link-me",
+    "started_at": 1787254771.044962,
+    "completed_at": 1787254773.820885,
     "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787248713.698395,
+    "completed_at": 1787248717.754827,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787248825.89685,
+    "completed_at": 1787248827.948919,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787390918.375844,
+    "completed_at": 1787390920.9553,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787256071.122147,
+    "completed_at": 1787256074.458038,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787254187.935415,
+    "completed_at": 1787254218.327127,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787254290.958247,
+    "completed_at": 1787254297.740841,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787247434.113579,
+    "completed_at": 1787247436.103269,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
   },
@@ -115,19 +113,30 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1787390366.445627,
-    "completed_at": 1787390369.239636,
+    "exercise_name": "under-control",
+    "started_at": 1787246653.90434,
+    "completed_at": 1787246655.879932,
     "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1787390918.375844,
-    "completed_at": 1787390920.9553,
-    "comments": [],
+    "exercise_name": "under-control",
+    "started_at": 1787388981.548855,
+    "completed_at": 1787388984.123291,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787405458.919835,
+    "completed_at": 1787405479.639277,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   }
 ]
