@@ -417,5 +417,15 @@
       "Great job deleting the VWX branch!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787986860.744271,
+    "completed_at": 1787986865.09879,
+    "comments": [
+      "Local branch S-to-Z is missing.",
+      "Remote branch S-to-Z is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
